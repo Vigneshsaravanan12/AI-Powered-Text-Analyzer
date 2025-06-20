@@ -56,8 +56,3 @@ The app takes long text inputs and instantly analyzes them to generate a short s
 pip install streamlit transformers nltk
 streamlit run app.py
 
-
-## 👤 Developed By
-Vignesh S
-B.E Computer Science (2025)
-LinkedIn | GitHub
