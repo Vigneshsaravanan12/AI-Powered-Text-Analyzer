@@ -51,8 +51,17 @@ The app takes long text inputs and instantly analyzes them to generate a short s
 
 ---
 
-## 🔗 Try It Locally
-```bash
+### 🔗 Try It Locally
+bash
+
 pip install streamlit transformers nltk
+
 streamlit run app.py
 
+---
+
+### 👨‍💻 Developed By
+
+**Vignesh S**  
+B.E. Computer Science  
+[GitHub](https://github.com/Vigneshsaravanan12) | [LinkedIn](https://www.linkedin.com/in/vignesh-s-14273a334)
